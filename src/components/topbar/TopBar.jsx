@@ -33,7 +33,7 @@ export default function TopBar() {
               <span className="topbarIconBadge">3</span>
           </div>
         </div>
-        <img src="/assets/person/download (1).jpeg" alt="aaa" className="topbarImg" />
+        <img src="/assets/person/1.jpeg" alt="aaa" className="topbarImg" />
       </div>
     </div>
 
